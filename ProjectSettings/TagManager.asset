@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Elevator
+  - Particle
+  - Platform
+  - Enemy
+  - Atrator
+  - Door
+  - Ring
+  - Scenic
+  - DeathZone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Map
+  - Scenic
+  - Particles
+  - Light
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background0
+    uniqueID: 1555708853
+    locked: 0
+  - name: Background0.5
+    uniqueID: 2125003711
+    locked: 0
+  - name: Background1
+    uniqueID: 648802723
+    locked: 0
+  - name: Interative
+    uniqueID: 62310987
+    locked: 0
+  - name: Player
+    uniqueID: 2410988965
+    locked: 0
+  - name: Foreground
+    uniqueID: 397482063
+    locked: 0
+  - name: Effect
+    uniqueID: 2086978347
+    locked: 0
+  - name: Report
+    uniqueID: 1615382953
+    locked: 0
+  - name: MapIcons
+    uniqueID: 2214911331
+    locked: 0
